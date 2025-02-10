@@ -17,7 +17,7 @@ Steps to follow:
 5. Create a new repo on GitHub
 
 6. Link the local repo to GitHub by copying the repo URL provided by GitHub.
-   git remote add origin <link>
+   git remote add origin "link"
 
-7. Push the local repo to GitHub:
+8. Push the local repo to GitHub:
    git push -u origin master
